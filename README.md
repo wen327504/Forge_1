@@ -5,11 +5,11 @@
 📐 机械规格 (Specifications)（待补充）
 
 📂 项目结构 (Repository Structure)
-  ├── Mechanical/         # 机械设计文件 (STEP, STL)
-  ├── Electronics/        # 电路原理图、PCB 布线 (EasyEDA)
-  ├── Firmware/           # 底层控制源码 (C++/Arduino)
-  ├── Docs/               # 组装手册、BOM 清单、计算模型
-  └── Examples/           # 演示案例 (G-Code, Python API)
+ Mechanical/机械设计文件 (STEP, STL)
+ Electronics/电路原理图、PCB 布线 (EasyEDA)
+ Firmware/底层控制源码 (C++/Arduino)
+ Docs/组装手册、BOM清单
+ Examples/演示案例
 
 🚀 快速开始 (待补充)
 
